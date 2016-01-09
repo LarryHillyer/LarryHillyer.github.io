@@ -1,3 +1,16 @@
 body {
-    background-image: url("assets/img/IMG_4093.jpg")
+    background-image: url("/assets/img/IMG_4093.jpg");
+    background-size: cover;
+}
+.name {
+    margin-top: 40%;
+    margin-left: 40%;
+    font-size: 30pt;
+    color: rgb(119, 128, 204);
+}
+
+.panel-css {
+    margin-top:62%;
+    background-color: rgba(255, 255, 255, 0);
+    border-color: rgba(255, 255, 255, 0);
 }
