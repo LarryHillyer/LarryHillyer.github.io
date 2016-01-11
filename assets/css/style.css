@@ -1,12 +1,13 @@
 body {
     background-image: url("../img/IMG_4093.JPG");
     background-size: cover;
-}
-.name {
-    margin-top: 40%;
-    margin-left: 40%;
-    font-size: 30pt;
     color: rgb(119, 128, 204);
+}
+.quote {
+    margin-top: 20%;
+    margin-left: 40%;
+    /*font-size: 30pt;*/
+    
 }
 
 .panel-css {
@@ -17,4 +18,21 @@ body {
 }
 .btn-css {
     color: rgb(119, 128, 204);
+}
+.navbar-css {
+    border-color:rgba(255,255,255,0);
+    background-image: none;
+    background-color: rgba(255, 255, 255, 0);
+}
+.container-fluid-css {
+    background-color:rgba(255,255,255,0);
+}
+.navbar-link {
+   color: rgb(119, 128, 204); 
+}
+.copyright {
+    margin-top: 70%;
+    margin-left: 90%;
+    font-size: 8px;
+    color: #256D26;
 }

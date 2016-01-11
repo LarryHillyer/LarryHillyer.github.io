@@ -1,4 +1,4 @@
 
 $(document).ready(function() {
-    $('.dropdown-toggle').dropdown()
+    $('.dropdown-toggle').dropdown()    
  });
